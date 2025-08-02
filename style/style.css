@@ -1,0 +1,34 @@
+.div1, .div2, .div3{
+    border-radius: 10px;
+    width: 200px;
+    height: 200px;
+    border: 1px solid #000;
+    margin: 20px ;
+}
+
+img {
+    width: 20% ; 
+    border:  1px solid #12da12;
+
+}
+
+.div1 {
+    background-color: #c43838;
+}
+
+.div2 {
+    background-color: #38c4c4;
+}
+
+.div3 {
+    background-color: #38c438;
+}
+
+.div4 {
+
+    background-color: #c438c4;
+    border: 1px solid #000;
+    margin: 20px ;
+    padding: 20px;
+
+}
